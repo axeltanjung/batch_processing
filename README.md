@@ -135,3 +135,12 @@ git clone xxxxxxxx
 12. Testing
 13. Git push
 14. Share link repo ke tutor
+
+Tabel Source
+![image](https://github.com/axeltanjung/batch_processing/assets/87402782/61c90149-850a-4cf5-9c59-1d6ab22cf0b9)
+
+Table Data Warehouse
+![image](https://github.com/axeltanjung/batch_processing/assets/87402782/8c394886-fefd-4d48-a908-d186b58a1d93)
+
+    
+

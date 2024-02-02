@@ -24,7 +24,7 @@ if __name__ == '__main__':
 
     conn_source, engine_source = connection.source_conn()
     cursor_source = conn_source.cursor()
-    
+
     path = os.getcwd()
     folder_path = os.path.join(path, 'sql')
     filename = os.path.join(folder_path, 'dml_dwh.sql')
